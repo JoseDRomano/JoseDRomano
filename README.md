@@ -69,6 +69,3 @@
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josedromano&show_icons=true&locale=en" alt="josedromano" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josedromano&" alt="josedromano" /></p>
