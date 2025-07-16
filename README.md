@@ -14,12 +14,10 @@
 
 ---
 
-### 🧠 AI / Data Science &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 Dev &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🛠️ Tools
-
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <strong>AI / Data Science</strong><br><br>
+      <strong>🧠 AI / Data Science</strong><br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" />
@@ -29,7 +27,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
     </td>
     <td align="center" valign="top" width="33%">
-      <strong>Dev</strong><br><br>
+      <strong>💻 Dev</strong><br><br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
@@ -40,7 +38,7 @@
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
     </td>
     <td align="center" valign="top" width="33%">
-      <strong>Tools</strong><br><br>
+      <strong>🛠️ Tools</strong><br><br>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
