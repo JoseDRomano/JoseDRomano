@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm José Romano</h1>
 <h3 align="center">A passionate software engineer with an eye for market trends and data-driven solutions. </h3>
 
-<h3 align="left">Contact me via:</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=josedromano&label=Profile%20views&color=0e75b6&style=flat" alt="josedromano" /> </p>
+<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+  <h3 style="margin 0">Contact me via:</h3>
+  <a href="https://www.linkedin.com/in/jd-romano/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jd-romano/" height="30" width="40" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=josedromano&label=Profile%20views&color=0e75b6&style=flat" alt="josedromano" height="20" /> </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josedromano&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="josedromano" />
 <p align="left">
-<a href="https://www.linkedin.com/in/jd-romano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jd-romano/" height="30" width="40" /></a>
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josedromano&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="josedromano" /></p>
 
 <h3 align="left">AI / Data Science:</h3>
 <p align="left"> 
