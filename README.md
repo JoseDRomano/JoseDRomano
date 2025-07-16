@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Romano</h1>
-<h3 align="center">A passionate software engineer with an eye for market trends and data-driven solutions.</h3>
+<h3 align="center">I'm an AI engineer who loves turning data into decisions and models into value.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jd-romano/" target="blank">
