@@ -49,9 +49,6 @@
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache spark" width="40" height="40"/> 
     </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a> 
@@ -63,9 +60,6 @@
     </a>
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     </a>
     <a href="https://azure.microsoft.com/en-us/products/resources/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure cloud resources" width="40" height="40"/> 
