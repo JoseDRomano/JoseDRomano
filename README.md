@@ -22,25 +22,25 @@ AI Engineer building production AI applications with LLMs, modern backend system
 
 ### 🧠 AI Engineering
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="48"/>&nbsp;
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" />
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" />
 
 <br><br>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
 
 <br>
 
-![Claude](https://img.shields.io/badge/Claude-black?style=flat-square)
+<img src="https://img.shields.io/badge/Claude-black?style=flat-square" />
 
 <br>
 
-![vLLM](https://img.shields.io/badge/vLLM-blue?style=flat-square)
+<img src="https://img.shields.io/badge/vLLM-blue?style=flat-square" />
 
 <br>
 
-![LangGraph](https://img.shields.io/badge/LangGraph-green?style=flat-square)
+<img src="https://img.shields.io/badge/LangGraph-green?style=flat-square" />
 
 </td>
 
@@ -48,13 +48,13 @@ AI Engineer building production AI applications with LLMs, modern backend system
 
 ### 📊 ML / Deep Learning
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="45" />
 
 <br><br>
 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" />
 
 <!-- Optional -->
 <!-- TensorFlow -->
@@ -66,19 +66,19 @@ AI Engineer building production AI applications with LLMs, modern backend system
 
 ### 💻 Backend
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" />
 
 <br><br>
 
-<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="45" />
 
 </td>
 
@@ -86,18 +86,18 @@ AI Engineer building production AI applications with LLMs, modern backend system
 
 ### ☁️ Infrastructure
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" />
 
 <br><br>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
 </td>
 
@@ -122,7 +122,7 @@ AI Engineer building production AI applications with LLMs, modern backend system
 ## 📫 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jd-romano/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/jd-romano/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
