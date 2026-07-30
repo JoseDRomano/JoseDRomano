@@ -13,68 +13,103 @@ AI Engineer building production AI applications with LLMs, modern backend system
 
 ---
 
-## 🧠 AI Engineering
+<div align="center">
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" alt="Azure"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" alt="Hugging Face"/>
-</p>
+<table>
+<tr>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![Anthropic](https://img.shields.io/badge/Claude-black?style=for-the-badge)
-![vLLM](https://img.shields.io/badge/vLLM-blue?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-green?style=for-the-badge)
+<td align="center" valign="top" width="25%">
 
----
+### 🧠 AI Engineering
 
-## 📊 Machine Learning / Deep Learning
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="45" alt="Pandas"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" alt="PyTorch"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45"/>
 
----
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/>
 
-## 💻 Backend Development
+<br><br>
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" alt="Redis"/>
-  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="45" alt="WordPress"/>
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-black?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-blue?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-green?style=flat-square)
 
----
+</td>
 
-## ☁️ Infrastructure & DevOps
+<td align="center" valign="top" width="25%">
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" alt="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub"/>
-</p>
+### 📊 ML / Deep Learning
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
+
+<!-- Optional -->
+<!-- TensorFlow -->
+<!-- Scikit-Learn -->
+
+</td>
+
+<td align="center" valign="top" width="25%">
+
+### 💻 Backend
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="45"/>
+
+</td>
+
+<td align="center" valign="top" width="25%">
+
+### ☁️ Infrastructure
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+
+<br><br>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 🚀 Current Focus
 
-- 🤖 Building production-ready LLM applications
-- 🦙 Self-hosting and serving open-weight models with **vLLM**
+- 🤖 Building production AI applications with LLMs
+- 🦙 Serving open-weight models with **vLLM**
 - 🔍 Retrieval-Augmented Generation (RAG)
 - 🕸️ Agentic AI workflows with **LangGraph**
-- ⚡ High-performance Python & FastAPI backends
-- ☁️ Deploying AI systems on Azure & Kubernetes
+- ⚡ Building high-performance APIs with **FastAPI**
+- ☁️ Deploying AI systems on **Azure**, **Docker**, and **Kubernetes**
 
 ---
 
