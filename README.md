@@ -108,17 +108,6 @@ AI Engineer building production AI applications with LLMs, modern backend system
 
 ---
 
-## 🚀 Current Focus
-
-- 🤖 Building production AI applications with LLMs
-- 🦙 Serving open-weight models with **vLLM**
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🕸️ Agentic AI workflows with **LangGraph**
-- ⚡ Building high-performance APIs with **FastAPI**
-- ☁️ Deploying AI systems on **Azure**, **Docker**, and **Kubernetes**
-
----
-
 ## 📫 Connect with me
 
 <p align="left">
